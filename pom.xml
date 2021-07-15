@@ -7,5 +7,9 @@
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
+
+  <sonar.projectKey>anthonywen070301_ProyectoJavaMaven</sonar.projectKey>
+  <sonar.organization>awch070301</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 </project>
